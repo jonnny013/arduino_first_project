@@ -1,0 +1,4 @@
+BasedOnStyle: Google
+BreakBeforeBraces: Attach
+IndentWidth: 2
+ColumnWidth: 100
